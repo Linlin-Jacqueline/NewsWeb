@@ -4,6 +4,6 @@ This is a Flask-based Business News Aggregator that fetches the latest business 
 ## Features
 - Fetches news from multiple sources: NewsData.io and Mediastack.
 - Filters only business-related news for focused insights.
-Translates articles into Simplified Chinese using OpenAI GPT-4.
-Responsive web UI using Bootstrap for a clean news display.
-Deploys locally with Flask and shares via ngrok.
+- Translates articles into Simplified Chinese using OpenAI GPT-4.
+- Responsive web UI using Bootstrap for a clean news display.
+- Deploys locally with Flask and shares via ngrok.
